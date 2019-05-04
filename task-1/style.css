@@ -1,0 +1,30 @@
+.button_1 {
+    background-color:#B22222; /* red*/
+    border-style:solid;
+    border-color:whitesmoke;
+    font-size: 40px;
+}
+.button_2 {
+    background-color:#FFFF00; /* yellow*/
+    border-style:solid;
+    border-color:blue;
+    font-size: 40px;
+}
+.button_3 {
+    background: linear-gradient(to bottom right, #33ccff 0%, #ff99cc 100%);
+    border-radius: 25px;
+    border-color:pink;
+    font-size:40px;
+}
+.button_4 {
+    background-color: #FFFFFF; /* white*/
+    border-style:solid;
+    border-color:purple;
+    font-size: 40px;
+}
+.button_5 {
+    background-color: #FFD700; /* blue*/
+    border-radius: 25px;
+    border-color:orange;
+    font-size: 40px;
+}
